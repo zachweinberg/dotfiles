@@ -3,6 +3,7 @@ alias gs="git status"
 alias ga="git add ."
 alias hist="git log --oneline"
 alias c="clear"
+alias ls="ls -la"
 
 gc(){
   git commit -m "$1" 
