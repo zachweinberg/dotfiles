@@ -4,6 +4,7 @@ alias ga="git add ."
 alias hist="git log --oneline"
 alias c="clear"
 alias ls="ls -la"
+alias desk="cd ~/Desktop"
 
 gc(){
   git commit -m "$1" 
